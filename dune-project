@@ -1,6 +1,6 @@
 (lang dune 3.7)
 
-(name hw6)
+(name test-ocaml-assgn)
 
 (generate_opam_files true)
 
@@ -16,7 +16,7 @@
 (documentation https://url/to/documentation)
 
 (package
- (name hw6)
+ (name test-ocaml-assgn)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml ppx_expect ppx_sexp_conv sexplib0)

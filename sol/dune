@@ -1,7 +1,7 @@
 (executables
- (public_names hw6 - - - -)
+ (public_names ocaml-test-assgn)
  (modes exe)
- (names reverse horz_flip main_diagonal transpose vert_flip)
+ (names main)
  (libraries src)
  (preprocess
   (pps ppx_expect ppx_sexp_conv)))
