@@ -8,6 +8,10 @@
     "vscode": {
       "extensions": ["ocamllabs.ocaml-platform"],
       "settings": {
+        "chat.disableAIFeatures": true,
+        "github.copilot.enable": {
+          "*": false
+        },
         "editor.formatOnSave": true,
         "editor.rulers": [80],
         "editor.renderControlCharacters": false,
