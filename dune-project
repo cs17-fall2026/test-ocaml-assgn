@@ -1,8 +1,6 @@
 (lang dune 3.7)
 
-(map_workspace_root false)
-
-(name hw6-ocaml)
+(name hw6)
 
 (generate_opam_files true)
 
@@ -18,7 +16,7 @@
 (documentation https://url/to/documentation)
 
 (package
- (name hw6-ocaml)
+ (name hw6)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml ppx_expect ppx_sexp_conv sexplib0)
