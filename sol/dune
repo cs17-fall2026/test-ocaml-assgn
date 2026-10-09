@@ -1,0 +1,7 @@
+(executables
+ (public_names hw6-ocaml - - - -)
+ (modes byte exe)
+ (names reverse horz_flip main_diagonal transpose vert_flip)
+ (libraries src)
+ (preprocess
+  (pps ppx_expect ppx_sexp_conv)))
