@@ -1,6 +1,6 @@
 {
   "name": "CS17 OCaml",
-  "image": "ghcr.io/your-org/cs17-ocaml@sha256:b1fd819083daf1bb4ba9ffab2bcba6e56d1fb9975981057c41ecb4780530821a",
+  "image": "ghcr.io/cs17-fall2026/cs17-ocaml@sha256:b1fd819083daf1bb4ba9ffab2bcba6e56d1fb9975981057c41ecb4780530821a",
   "remoteUser": "vscode",
   "customizations": {
     "vscode": {
