@@ -19,7 +19,7 @@
         "extensions.ignoreRecommendations": true,
         "ocaml.sandbox": {
           "kind": "opam",
-          "switch": "ocaml"
+          "switch": "cs17"
         }
       }
     }
